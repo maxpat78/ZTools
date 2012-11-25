@@ -9,7 +9,7 @@ ZSpan
  
 Simply compile and do:
  
-  ZSpan <source.zip> <KiB segment> <destination radix>
+  ZSpan source.zip KiB_segment destination_radix
 
 
 ZAes
